@@ -1,0 +1,9 @@
+{
+    "cmake.sourceDirectory": "E:/Codes/DesignPatterns/Decorator/cpp",
+    "files.associations": {
+        "*.sqlbook": "sql",
+        "*.ndjson": "jsonl",
+        "*.dbclient-js": "javascript",
+        "iostream": "cpp"
+    }
+}

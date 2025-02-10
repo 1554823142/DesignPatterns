@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/Codes/DesignPatterns/build",
+  "command": "E:\\MSYS2\\ucrt64\\bin\\g++.exe  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\scr\\main.cpp.obj -c E:\\Codes\\DesignPatterns\\Decorator\\cpp\\scr\\main.cpp",
+  "file": "E:/Codes/DesignPatterns/Decorator/cpp/scr/main.cpp",
+  "output": "CMakeFiles/main.dir/scr/main.cpp.obj"
+}
+]
